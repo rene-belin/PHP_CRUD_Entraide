@@ -1,9 +1,8 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
-*/
-/* 
-    Created on : 13 mai 2024, 19:50:27
-    Author     : rene
-*/
+#form{
+    background-image: url("../images/bg-form3.jpg");
+    height: 100vh;
+    background-position: center;
+    color: black;
+
+}
 
